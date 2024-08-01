@@ -1,5 +1,6 @@
 #Giman
 #research
+
 Summary
 - 퀴즈를 만드는 사람의 목적
 	- 학습용 (선생님 관점)
@@ -36,8 +37,9 @@ raw
 			4. 퀴즈 10개를 다 풀고나면 유튜브나 네이버 링크로 연결할 수 있게함.
 		3. 캐시워크, 토스퀴즈
 			1. 광고용 + 유저 접속 시간 늘리기용
-			2. 참고![[스크린샷 2024-08-01 오후 5.58.01.png]]![[Pasted image 20240801174358.png]]
-	2. Plain text 형태
+			2. 참고
+				![[../image/quiz-service-research-adprice.png]]
+	1. Plain text 형태
 		1. 국정원 추리퀴즈 ([링크](https://www.nis.go.kr/CM/1_5_1/list.do?selectBox=0&fromDate=&toDate=&searchKeyword=&currentPage=1))
 			1. 왜 국정원에서 이런 퀴즈를 내는지는 모르겠음
 			2. 2주에 한개씩 추리하는 퀴즈를 내고 있음
