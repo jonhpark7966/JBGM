@@ -11,18 +11,11 @@
             "id": "67d6b0829d9dddd7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "cards/240731 Init.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -76,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d8032797ccc5513f",
@@ -92,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban.md",
+                "file": "cards/240731 Init.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban.md",
+                "file": "cards/240731 Init.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "cards/240731 Init.md"
               }
             }
           }
@@ -150,21 +144,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "67d6b0829d9dddd7",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
+    "cards/Quiz service 리서치 초안.md",
     "cards/Quiz Geneartor.md",
-    "JBGM/LICENSE",
-    "JBGM",
     "cards/240731 Init.md",
     "Kanban.md",
-    "Readme.md",
-    "cards",
+    "image/Pasted image 20240801174358.png",
+    "image",
+    "스크린샷 2024-08-01 오후 5.58.01.png",
     "Untitled.md",
+    "Readme.md",
+    "Untitled Kanban.md",
+    "JBGM/LICENSE",
+    "JBGM",
+    "cards",
     "rsc"
   ]
 }
