@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "d1d578532a7ed95a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bf2fb7f9e7cd9f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67d6b0829d9dddd7",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da17efd5a64c850a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2869b2af8fd8f762",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9115f913410d4a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e47d0c448235fb3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06dea1d1f0dc258b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8032797ccc5513f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e8fd0cc174e63b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6b24ed45edb4739",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kanban.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c56919d177b9f564",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kanban.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "953e8fef4452af2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2908e3349baa7750",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kanban.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "67d6b0829d9dddd7",
+  "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "cards/Quiz Geneartor.md",
+    "JBGM/LICENSE",
+    "JBGM",
+    "cards/240731 Init.md",
+    "Kanban.md",
+    "Readme.md",
+    "cards",
+    "Untitled.md",
+    "rsc"
+  ]
+}
